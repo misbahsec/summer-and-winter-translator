@@ -1,0 +1,10 @@
+# Ignore model weights
+*.pth
+cyclegan-summer2winter-pytorch-default-v1/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
