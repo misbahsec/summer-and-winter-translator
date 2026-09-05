@@ -1,10 +1,10 @@
-# Ignore model weights
-*.pth
-cyclegan-summer2winter-pytorch-default-v1/
-
-# Ignore Python cache
-__pycache__/
-*.pyc
-
-# Ignore Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Ignore dataset and image folders
+Sum(A)-Win(B) dataset/
+dataset1.csv
+dataset2.csv
+metadata.csv
+Generated Image/
+Generated Summer Image/
+Upload Image/
+Upload Winter Image/
+.gradio/
